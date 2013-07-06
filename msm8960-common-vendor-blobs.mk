@@ -54,7 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960-common/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     vendor/motorola/msm8960-common/proprietary/etc/wifi/hostapd_default.conf:system/etc/wifi/hostapd_default.conf \
     vendor/motorola/msm8960-common/proprietary/etc/thermald.conf:system/etc/thermald.conf \
-    vendor/motorola/msm8960-common/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/vendor-camera.msm8960.so \
+    vendor/motorola/msm8960-common/proprietary/lib/hw/vendor-camera.msm8960.so:system/lib/hw/vendor-camera.msm8960.so \
     vendor/motorola/msm8960-common/proprietary/lib/hw/sensorhub.msm8960.so:system/lib/hw/sensorhub.msm8960.so \
     vendor/motorola/msm8960-common/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/motorola/msm8960-common/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
@@ -78,6 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960-common/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/motorola/msm8960-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/motorola/msm8960-common/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+    vendor/motorola/msm8960-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/motorola/msm8960-common/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/motorola/msm8960-common/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/motorola/msm8960-common/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
